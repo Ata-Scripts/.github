@@ -23,7 +23,7 @@ jobs:
 
       - name: Run script to update README
         run: |
-          python script_name.py  # replace with your script's filename
+          python tebex.py  # replace with your script's filename
 
       - name: Commit and push changes
         run: |
